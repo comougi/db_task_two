@@ -4,11 +4,27 @@
     <projectFile>BdTaskTwo/BdTaskTwo.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6a34e38-dae0-4d11-bcb4-38d77f91a3c5" name="Default Changelist" comment="" />
+    <list default="true" id="f6a34e38-dae0-4d11-bcb4-38d77f91a3c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BdTaskTwo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BdTaskTwo/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BdTaskTwo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BdTaskTwo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BdTaskTwo/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BdTaskTwo/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BdTaskTwo/obj/BdTaskTwo.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BdTaskTwo/obj/BdTaskTwo.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BdTaskTwo/obj/BdTaskTwo.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BdTaskTwo/obj/BdTaskTwo.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BdTaskTwo/obj/Debug/netcoreapp3.1/BdTaskTwo.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BdTaskTwo/obj/Debug/netcoreapp3.1/BdTaskTwo.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BdTaskTwo/obj/Debug/netcoreapp3.1/BdTaskTwo.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BdTaskTwo/obj/Debug/netcoreapp3.1/BdTaskTwo.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BdTaskTwo/obj/Debug/netcoreapp3.1/BdTaskTwo.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BdTaskTwo/obj/Debug/netcoreapp3.1/BdTaskTwo.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BdTaskTwo/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BdTaskTwo/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BdTaskTwo/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BdTaskTwo/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BdTaskTwo/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BdTaskTwo/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BdTaskTwo/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BdTaskTwo/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/Downloads/Telegram Desktop/Task5.cs" root0="SKIP_HIGHLIGHTING" />
@@ -26,6 +42,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1jPd2sqUMf7evaX8qVj3Dyx2Mkj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -68,6 +85,7 @@
       <workItem from="1603710309094" duration="7570000" />
       <workItem from="1603730225838" duration="277000" />
       <workItem from="1603816942305" duration="3478000" />
+      <workItem from="1607270682780" duration="1670000" />
     </task>
     <servers />
   </component>

@@ -5651,30 +5651,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\max14\\.nuget\\packages\\": {},
+    "C:\\Users\\Maxim\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\max14\\Desktop\\BdTaskTwo\\BdTaskTwo\\BdTaskTwo.csproj",
+      "projectUniqueName": "C:\\Users\\Maxim\\Desktop\\db_task_two\\BdTaskTwo\\BdTaskTwo.csproj",
       "projectName": "BdTaskTwo",
-      "projectPath": "C:\\Users\\max14\\Desktop\\BdTaskTwo\\BdTaskTwo\\BdTaskTwo.csproj",
-      "packagesPath": "C:\\Users\\max14\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\max14\\Desktop\\BdTaskTwo\\BdTaskTwo\\obj\\",
+      "projectPath": "C:\\Users\\Maxim\\Desktop\\db_task_two\\BdTaskTwo\\BdTaskTwo.csproj",
+      "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Maxim\\Desktop\\db_task_two\\BdTaskTwo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\max14\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Maxim\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5715,7 +5713,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
